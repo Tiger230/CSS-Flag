@@ -1,0 +1,38 @@
+.White1 {
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+    height: 250px;
+    width: 1500px;
+}
+
+.Red {
+    background-color: rgb(204, 0, 0);
+    position: fixed;
+    top: 250px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+    height: 250px;
+    width: 1500px;
+}
+
+.White2 {
+    background-color: white;
+    position: fixed;
+    top: 500px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+    height: 250px;
+    width: 1500px;
+}
+
+.Link {
+    position: fixed;
+    top: 750px;
+    left: 50%;
+}

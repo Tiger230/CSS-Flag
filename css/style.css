@@ -1,0 +1,38 @@
+.Pattern {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-image: url("../Assets/FlagPattern.jpg");
+    padding: 0px;
+    margin: 0px;
+    height: 750px;
+    width: 166px;
+}
+
+.Red {
+    position: fixed;
+    top: 0px;
+    left: 166px;
+    background-color: rgb(201, 49, 62);
+    height: 500px;
+    width: 1334px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.Green {
+    position: fixed;
+    top: 500px;
+    left: 166px;
+    background-color: rgb(99, 163, 95);
+    height: 250px;
+    width: 1334px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.Link {
+    position: fixed;
+    top: 750px;
+    left: 50%;
+}
